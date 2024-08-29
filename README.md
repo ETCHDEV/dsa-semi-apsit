@@ -1,3 +1,3 @@
 # Github_event
-## Author - Ayush Gupta
+## Author - ETCHDEV
 ### this is an event
